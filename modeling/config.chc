@@ -1,5 +1,12 @@
 #Config
+<<<<<<< Updated upstream
 #Mon Aug 12 09:21:57 BRT 2024
 cfg.location.x=55
 cfg.location.y=0
 cfg.recentes=
+=======
+#Tue Aug 13 20:07:24 BRT 2024
+cfg.location.x=-8
+cfg.location.y=-8
+cfg.recentes=D\:\\Programas\\JAVA\\Cafeteria\\modeling\\cafeteria.brM3;D\:\\Programas\\JAVA\\Cafeteria\\modeling\\cafeterialogic.brM3
+>>>>>>> Stashed changes
